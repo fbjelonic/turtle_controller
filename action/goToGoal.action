@@ -1,0 +1,11 @@
+# define the goal x and y position
+float32 x
+float32 y
+---
+# define the result
+
+bool result
+---
+# define a feedback message
+
+float32 distance_to_goal
