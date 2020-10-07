@@ -1,5 +1,8 @@
 # ROS Turtle Controller
-Small and simple Turtle controller in C++ for turtlesim ROS package.
+
+Small Turtle controller in C++ for turtlesim ROS package. This package currently works for ROS Kinetic only.
+If you are interested in learning more about this and many more projects, **check out my [website](https://www.fbjelonic.com/)!** You can also find an **example video of this project and some deeper explanations** there.
+You can also find the **link to this project** directly **[here](https://www.fbjelonic.com/projects/crazy_turtle/)**
 
 ## Building 
 For building, use your terminal and type following commands:
